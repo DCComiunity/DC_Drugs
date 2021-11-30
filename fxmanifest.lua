@@ -7,8 +7,6 @@
 ---| $$$$$$$/|  $$$$$$/        |  $$$$$$/| $$  | $$|  $$$$$$/| $$      
 ---|_______/  \______/  /$$$$$$ \______/ |__/  |__/ \______/ |__/      
 ---                   |______/     
--- SCRIPTS Y BASES EN DC_Shop
--- MADE By : DARK CORONEL dev of DC_Shop
 fx_version "adamant"
 game "gta5"
 client_scripts {
@@ -23,4 +21,4 @@ shared_script {
 }
 author "DC_Shop"
 version "BETA"
-description "Script de drogas echas de 0 por DC_Shop estado actual del script BETA"
+description "Script de drogas echas de 0 por DC Comiunity estado actual del script BETA"
