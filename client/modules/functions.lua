@@ -7,8 +7,6 @@
 ---| $$$$$$$/|  $$$$$$/        |  $$$$$$/| $$  | $$|  $$$$$$/| $$      
 ---|_______/  \______/  /$$$$$$ \______/ |__/  |__/ \______/ |__/      
 ---                   |______/     
--- SCRIPTS Y BASES EN DC_Shop
--- MADE By : DARK CORONEL dev of DC_Shop
 
 Create3D = function(coords, texto)
 
