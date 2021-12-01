@@ -7,8 +7,6 @@
 ---| $$$$$$$/|  $$$$$$/        |  $$$$$$/| $$  | $$|  $$$$$$/| $$      
 ---|_______/  \______/  /$$$$$$ \______/ |__/  |__/ \______/ |__/      
 ---                   |______/     
--- SCRIPTS Y BASES EN DC_Shop
--- MADE By : DARK CORONEL dev of DC_Shop
 
 
 
@@ -48,68 +46,3 @@ ESX.RegisterServerCallback("item:cogollos", function(source, cb)
 
     cb(item2)
 end)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-print("^1----------------------------------------------------------------------")
-print("^1[^1DC_drugs^1]...  | ^2Comprobando tu licencia... Por favor espere")
-print("^5")
-print("^1----------------------------------------------------------------------")
-print("^1[^2DC_drugs^1]...  | ^2licencia activada")
-print("^1###############################")
-
-                                                                                         
-
-print("########   ######         ######  ##     ##  #######  ########  ")
-print("##     ## ##    ##       ##    ## ##     ## ##     ## ##     ## ")
-print("##     ## ##             ##       ##     ## ##     ## ##     ## ")
-print("##     ## ##               ######  ######### ##     ## ########  ")
-print("##     ## ##                   ## ##     ## ##     ## ##        ")
-print("##     ## ##    ##       ##    ## ##     ## ##     ## ##        ")
-print("########   ######         ######  ##     ##  #######  ##        ")
-
-                                                                                         
-                                                                                         
-
-print ("^2derechos de autor para : dark_coronel#8991 ") 
-print ("^2creditos tambien a Famous RP | https://discord.gg/G99FBKUxWR")
-print ("^3 para saber mas informacion de scripts unete a mi shop : https://discord.gg/pGCkAQedZc")
-print("^1###############################")
-print("DC_Shop : Tenemos disponicles los scripts DC_AmazonJob, DC_Blips, DC_PizzaJob, DC_Cardealer y el script de DC_Drugs que actualmente se encuentra en proceso")
-
-
-        
-                                                                                         
-                                                                                         
-
-
-
-
-
-
-
-
