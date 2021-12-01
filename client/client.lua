@@ -7,8 +7,7 @@
 ---| $$$$$$$/|  $$$$$$/        |  $$$$$$/| $$  | $$|  $$$$$$/| $$      
 ---|_______/  \______/  /$$$$$$ \______/ |__/  |__/ \______/ |__/      
 ---                   |______/     
--- SCRIPTS Y BASES EN DC_Shop
--- MADE By : DARK CORONEL dev of DC_Shop
+
 ESX = nil 
 Citizen.CreateThread(function()
     while ESX == nil do
